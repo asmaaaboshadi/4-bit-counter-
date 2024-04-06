@@ -5,7 +5,7 @@ it occurs is known as a counter. Depending on a clock signal, this
 counter can count and store the number of times a particular event or 
 process has occurred in a digital logic system or computer. The 
 sequential digital logic circuit, which has multiple outputs and a single 
-clock input, is the most prevalent type of counter. Binary or binarycoded decimal numbers are the outputs. The number can either rise or 
+clock input, is the most prevalent type of counter. Binary or binary coded decimal numbers are the outputs. The number can either rise or 
 fall with each clock pulse. 
 Synchronous generally refers to something that is time-synchronized 
 with others. All clocks follow the same reference clock when synced 
